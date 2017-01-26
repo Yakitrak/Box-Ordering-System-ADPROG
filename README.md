@@ -6,5 +6,5 @@ This is a piece of coursework for our programming unit at university. We used go
 This program acts as a simple program that allows a user to select what type of cardboard box to by and then output a price depending on want they want. "FinalBoxQuote V-12" is our final version of this program.
 
 Programming by:
-Yakitrak
+Yakitrak and
 Matchoo95
